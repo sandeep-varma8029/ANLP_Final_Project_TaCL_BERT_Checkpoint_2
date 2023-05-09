@@ -1,6 +1,6 @@
 # ANLP TaCL BERT SQuAD Robustness Check
 
-This repository contains the implementation of robustness of the TaCL BERT model finetuned for the Stanford Question Answering Dataset (SQuAD) task. We perform a comprehensive evaluation using the award-winning CheckList methodology and focus on various robustness dimensions. The results are analyzed and discussed in detail to understand the strengths and weaknesses of the model in handling real-world data perturbations.
+This Folder contains the implementation of robustness of the TaCL BERT model finetuned for the Stanford Question Answering Dataset (SQuAD) task. We perform a comprehensive evaluation using the award-winning CheckList methodology and focus on various robustness dimensions. The results are analyzed and discussed in detail to understand the strengths and weaknesses of the model in handling real-world data perturbations.
 The Checklist is a framework designed to evaluate the performance of natural language processing (NLP) models across a wide range of linguistic capabilities. In the given list, several linguistic phenomena and aspects are mentioned. Below, we provide descriptions of each and then give examples of the three main types of tests used in the Checklist framework: MFT (Minimum Functionality Test), INV (Invariance Test), and DIR (Directional Expectation Test).
 
 The repository includes two options for running the project:
