@@ -1,6 +1,6 @@
 # ANLP Final Project - TACL BERT Checkpoint 2: Chinese Benchmark Analysis
 
-In this repository, we evaluate the performance of the TaCL Chinese model using five datasets: msra, resume, weibo, ontonotes, and pku. We compute F1 score, precision, and recall metrics for this model on these datasets. Analyzing the results of the TaCL-Chinese benchmark across different datasets provides valuable insights into the model’s performance and potential areas for improvement.
+In this Folder, we evaluate the performance of the TaCL Chinese model using five datasets: msra, resume, weibo, ontonotes, and pku. We compute F1 score, precision, and recall metrics for this model on these datasets. Analyzing the results of the TaCL-Chinese benchmark across different datasets provides valuable insights into the model’s performance and potential areas for improvement.
 
 ## Task Details
 
@@ -10,7 +10,7 @@ In this repository, we evaluate the performance of the TaCL Chinese model using 
     ./download_benchmark_data.sh
     ```
 
-2. **Conduct inference from our released checkpoints:**
+2. **Conduct inference from author released checkpoints:**
     (1) Downloading checkpoints for all evaluated tasks:
     ```
     chmod +x ./download_checkpoints.sh
@@ -30,7 +30,7 @@ In this repository, we evaluate the performance of the TaCL Chinese model using 
     - `--label_path`: Data label path.
     - `--batch_size`: Inference batch size.
 
-## Repository Structure
+## Folder Structure
 
 ```
 .
