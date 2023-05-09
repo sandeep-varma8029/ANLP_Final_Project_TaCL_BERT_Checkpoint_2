@@ -36,4 +36,4 @@ In this repository, we trained the TACL model on four languages, namely French, 
     │   ├── korean.csv
     │   └── telugu.csv
     └── requirements.txt
-``
+```
