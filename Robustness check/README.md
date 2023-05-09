@@ -32,9 +32,7 @@ Download the Dataset required for the checklist from https://drive.google.com/dr
 git clone https://github.com/sandeep-varma8029/ANLP_Final_Project_TaCL_BERT_Checkpoint_2.git
 ```
 2. Navigate to the cloned repository:
-```bash
-cd ANLP_TaCL_BERT
-```
+
 3. Install the required Python packages using pip:
 ```bash
 pip install -r requirements.txt
