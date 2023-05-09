@@ -1,6 +1,6 @@
 # ANLP Final Project - TACL BERT Checkpoint 2: MultiLinguality Check
 
-In this repository, we trained the TACL model on four languages, namely French, Korean, Telugu, and Hindi, using subsets of the Wiki dataset translated into these languages. We created Hugging Face models for each language and used the model for sentiment analysis and text classification tasks.
+In this Folder, we trained the TACL model on four languages, namely French, Korean, Telugu, and Hindi, using subsets of the Wiki dataset translated into these languages. We created Hugging Face models for each language and used the model for sentiment analysis and text classification tasks.
 
 ## Hugging Face Models
 
@@ -9,7 +9,7 @@ In this repository, we trained the TACL model on four languages, namely French, 
 - Telugu: https://huggingface.co/sandeepvarma99/tacl-telugu
 - Hindi: https://huggingface.co/sandeepvarma99/tacl-hindi
 
-## Repository Structure
+## Structure
 
 ```
 .
